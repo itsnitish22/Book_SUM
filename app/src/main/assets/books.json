@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "genre": "Personal Development",
+      "author": "",
+      "name": "Miracle Morning"
+    },
+    {
+      "genre": "Personal Development",
+      "author": "",
+      "name": "Deep Work"
+    },
+    {
+      "genre": "Personal Development",
+      "author": "",
+      "name": "Think Like a Monk"
+    },
+    {
+      "genre": "Personal Development",
+      "author": "",
+      "name": "Start with Why?"
+    },
+    {
+      "genre": "Personal Development",
+      "author": "",
+      "name": "Atomic Habits"
+    },
+    {
+      "genre": "Personal Development",
+      "author": "",
+      "name": "Digital Minimalizm"
+    },
+    {
+      "genre": "Business & Finance",
+      "author": "",
+      "name": "The hard things about Hard things"
+    },
+    {
+      "genre": "Business & Finance",
+      "author": "",
+      "name": "Tools of Titans"
+    },
+    {
+      "genre": "Business & Finance",
+      "author": "",
+      "name": "Rick dad poor dad"
+    },
+    {
+      "genre": "Business & Finance",
+      "author": "",
+      "name": "Secrets of a Millionare mind"
+    },
+    {
+      "genre": "Business & Finance",
+      "author": "",
+      "name": "Crushing It"
+    },
+    {
+      "genre": "Biography",
+      "author": "",
+      "name": "Elon Musk"
+    },
+    {
+      "genre": "Biography",
+      "author": "",
+      "name": "Wings of Fire"
+    },
+    {
+      "genre": "Biography",
+      "author": "",
+      "name": "Edison: A Biography by Matthew Josephson"
+    },
+    {
+      "genre": "Biography",
+      "author": "",
+      "name": "Steve Jobs by Walter Isaacs"
+    },
+    {
+      "genre": "Biography",
+      "author": "",
+      "name": "Becoming-Book by Michelle Obama"
+    },
+    {
+      "genre": "Trending",
+      "author": "",
+      "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life"
+    },
+    {
+      "genre": "Trending",
+      "author": "",
+      "name": "The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage"
+    },
+    {
+      "genre": "Trending",
+      "author": "",
+      "name": "The Rules of Work: A Definitive Code for Personal Success"
+    },
+    {
+      "genre": "Trending",
+      "author": "",
+      "name": "Get thhings done"
+    },
+    {
+      "genre": "Trending",
+      "author": "",
+      "name": "The subtle art of Not giving a f*ck- Mark Manson"
+    },
+    {
+      "genre": "Romance",
+      "author": "",
+      "name": "It ends with us"
+    },
+    {
+      "genre": "Romance",
+      "author": "",
+      "name": "The proposal"
+    },
+    {
+      "genre": "Romance",
+      "author": "",
+      "name": "The hating game"
+    },
+    {
+      "genre": "Romance",
+      "author": "",
+      "name": "Beautiful disaster"
+    },
+    {
+      "genre": "Romance",
+      "author": "",
+      "name": "Going with the wind"
+    },
+    {
+      "genre": "Science-Fiction",
+      "author": "",
+      "name": "Lord of the rings"
+    },
+    {
+      "genre": "Science-Fiction",
+      "author": "",
+      "name": "The enders Game"
+    },
+    {
+      "genre": "Science-Fiction",
+      "author": "",
+      "name": "The dune chronicles"
+    },
+    {
+      "genre": "Science-Fiction",
+      "author": "",
+      "name": "American God's"
+    },
+    {
+      "genre": "Science-Fiction",
+      "author": "",
+      "name": "Foundation triology"
+    }
+  ]
+}
