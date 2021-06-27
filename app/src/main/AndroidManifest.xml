@@ -11,7 +11,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Book_Sum">
-        <activity android:name=".Authors.Author"></activity>
+        <activity
+            android:name=".TheHardThings"
+            android:label="@string/title_activity_the_hard_things"
+            android:theme="@style/Theme.Book_Sum.NoActionBar"></activity>
+        <activity android:name=".Business" />
+        <activity android:name=".Personality_Development" />
+        <activity android:name=".category" />
+        <activity android:name=".Authors.Author" />
         <activity android:name=".categories.Categories" />
         <activity android:name=".Splash_Screen">
             <intent-filter>

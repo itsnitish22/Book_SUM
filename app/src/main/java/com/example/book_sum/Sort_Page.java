@@ -9,7 +9,6 @@ import android.widget.Button;
 
 import com.example.book_sum.Authors.Author;
 import com.example.book_sum.R;
-import com.example.book_sum.categories.Categories;
 
 public class Sort_Page extends AppCompatActivity {
     Button categories, authors;
@@ -25,16 +24,8 @@ public class Sort_Page extends AppCompatActivity {
         categories.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent categories_intent = new Intent(Sort_Page.this, Categories.class);
+                Intent categories_intent = new Intent(Sort_Page.this, category.class );
                 startActivity(categories_intent);
-            }
-        });
-
-        authors.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent authors_intent = new Intent(Sort_Page.this, Author.class);
-                startActivity(authors_intent);
             }
         });
     }
